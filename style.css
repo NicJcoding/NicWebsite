@@ -1,0 +1,22 @@
+body {
+    background-image: url(/images/journey.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    padding-top: 3rem;
+    color: #E5F9DB;
+    text-align: center;
+    font-family: 'Gothic A1', sans-serif ;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
+
+p {
+    padding-top: 8rem;
+    color: #A2C899;
+    opacity: 1;
+}

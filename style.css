@@ -7,12 +7,18 @@ body {
 }
 
 h1 {
-    padding-top: 3rem;
-    color: #E5F9DB;
+    padding-top: 2rem;
     text-align: center;
-    font-family: 'Gothic A1', sans-serif ;
+    font-family: 'Gothic A1', sans-serif;
     font-size: 30px;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
+    text-align: left;
+   
+}
+.welcome {
+    padding-top: 0px ;
+    color: #208A20;
+
 }
 
 p {
@@ -20,3 +26,4 @@ p {
     color: #A2C899;
     opacity: 1;
 }
+

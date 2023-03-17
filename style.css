@@ -29,7 +29,7 @@ p {
 }
 .welcome {
     padding-top: 0px ;
-    color: #379c37;
+    color: darkblue;
 }
 
 .nav-link:hover {
@@ -53,3 +53,18 @@ p {
 .hello2 {
     color: lightgreen;
 }
+
+/* Contact me Page */
+.forms {
+    display: flex;
+    justify-content: center;
+}
+label, legend {
+    color: white;
+}
+form{
+    padding-top: 100px;
+    height: 80%;
+    width: 90%;
+}
+

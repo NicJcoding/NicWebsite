@@ -19,7 +19,6 @@ h1 {
 }
 
 p {
-    padding-top: 8rem;
     color: #A2C899;
     opacity: 1;
 }
@@ -29,7 +28,7 @@ p {
 }
 .welcome {
     padding-top: 0px ;
-    color: darkblue;
+    color: #FFFDD0;
 }
 
 .nav-link:hover {
@@ -45,7 +44,8 @@ p {
 }
 
 .top {
-    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
 }
 
 /* Who Am I styling */
@@ -67,4 +67,13 @@ form{
     height: 80%;
     width: 90%;
 }
+
+/* Portfolio and whackamole styling */
+.projectname {
+    color: #FFDB58;
+}
+.linkprojbutton {
+    color: #FFD580;
+}
+
 
